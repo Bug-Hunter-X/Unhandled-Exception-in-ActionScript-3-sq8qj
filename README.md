@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: unhandled exceptions. The `bug.as` file contains code that may throw an error without proper handling.  The `bugSolution.as` file provides a solution using try-catch blocks.
